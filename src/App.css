@@ -1,0 +1,8 @@
+
+.search:focus {
+    outline:none
+}
+
+.plus, form {
+    z-index: 100;
+}
